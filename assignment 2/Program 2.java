@@ -1,5 +1,5 @@
 // Problem Statement:
-// Producer–Consumer Problem Synchronization and Inter-thread Communication
+// Producer–Consumer Problem using Synchronization
 import java.util.Random;
 
 class SharedBuffer {
